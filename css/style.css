@@ -1,0 +1,27 @@
+
+h1{
+  margin: 0 auto;
+  pading: 0;
+}
+
+body{
+  margin: 0;
+}
+
+.top_container{
+    background-color: #FDEBD0;
+    text-align: center;
+    }
+
+  .middle_container{
+    width: 900px;
+    height: 900px;
+    background-color: #D4EFDF;
+  }
+
+  .bottom_container{
+    background-color: #A2D9CE;
+    width: 900px;
+    height: 900px;
+
+  }
